@@ -14,22 +14,30 @@ In the digital age, where social media platforms like Twitter serve as bustling 
 
 ### ii. Data Fields:
 • sentiment: Binary label indicating the sentiment of the tweet (0 for negative, 4 for positive)
+
 • ids: Unique identifier for each tweet
+
 • date: Timestamp indicating the date and time when the tweet was posted
+
 • flag: Indicator of the data source (e.g., 'NO_QUERY' in this dataset)
+
 • user: Username of the Twitter user who posted the tweet
+
 • text: Textual content of the tweet
 
 ### iii. Data Quality:
 • Label Accuracy: Tweets labeled with sentiment based on emoticons (e.g., ":)" for positive, ":(" for negative)
+
 • Text Quality: Varied quality of textual content, including informal language, abbreviations, misspellings, and noise
 
 ### iv. Data Distribution:
 • Sentiment Distribution: Balanced or imbalanced distribution of positive and negative sentiments across the dataset
+
 • Dataset Size: Large dataset with 1.6 million tweets, providing sufficient data for training and evaluation
 
 ### v. Data Preprocessing:
 • Text Cleaning: Removal of noise such as URLs, special characters, and nonalphanumeric characters from the text
+
 • Text Normalization: Tokenization, lemmatization, and removal of consecutive letters to standardize the text format.
 
 ### vi. Data Encoding:
@@ -37,4 +45,5 @@ In the digital age, where social media platforms like Twitter serve as bustling 
 
 ### vii. Data Privacy and Ethics:
 • User Privacy: Anonymization of user identities and protection of sensitive information in compliance with privacy regulations and guidelines
+
 • Ethical Considerations: Awareness of potential biases, stereotypes, and ethical implications in the analysis and interpretation of social media data
