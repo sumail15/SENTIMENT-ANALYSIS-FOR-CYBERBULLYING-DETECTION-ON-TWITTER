@@ -1,1 +1,5 @@
 # SENTIMENT-ANALYSIS-FOR-CYBERBULLYING-DETECTION-ON-TWITTER
+
+## Introduction
+In the digital age, where social media platforms like Twitter serve as bustling hubs of communication, ensuring user safety is of paramount importance. Cyberbullying, a pervasive issue in online communities, poses serious threats to individuals' mental health and well-being. According to recent statistics, approximately 37% of adolescents report being cyberbullied, with nearly 34% experiencing it frequently. Moreover, studies indicate that cyberbullying victims are at a higher risk of developing anxiety, depression, and even suicidal ideation. Through sophisticated NLP techniques, we aim to develop an intelligent system capable of swiftly identifying and flagging instances of cyberbullying on Twitter. Our methodology revolves around training advanced machine learning models on vast datasets of Twitter
+conversations. By analyzing the linguistic patterns and contextual nuances inherent in cyberbullying instances, our NLP-powered system can effectively differentiate between harmless discourse and potentially harmful behavior
