@@ -7,7 +7,9 @@ In the digital age, where social media platforms like Twitter serve as bustling 
 
 ### i. Data Source:
 • Dataset Name: Sentiment140 dataset
+
 • Origin: Available on Kaggle (https://www.kaggle.com/kazanova/sentiment140)
+
 • Description: Contains 1.6 million tweets labeled with sentiment (positive or negative)
 
 ### ii. Data Fields:
